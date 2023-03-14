@@ -2,13 +2,13 @@
 
 Implemented services like ContestService and UserService by adding functionalities like : 
 
-* CreateUser
+* createUser
 
 * getAllUser
 
-*getAllContestantLevelWise
+* getAllContestantLevelWise
 
-*createContestant
+* createContestant
 
-*contestHistory
+* contestHistory
 
